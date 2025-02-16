@@ -1,4 +1,4 @@
-# Big-Mart-Sales
+
 # Big Mart Sales Prediction
 
 ## Project Overview  
